@@ -1,5 +1,4 @@
 import fastf1
-import requests
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -234,3 +233,4 @@ if __name__ == "__main__":
         print(f'R^2 Score: {r2:.2f}')
     else:
         print("Failed to fetch F1 data")
+
