@@ -21,10 +21,8 @@ It combines historical qualifying data, driver and team performance factors, and
 
 ---
 
-##▶️ Usage
-python f1_predict.py
 
-##📊 Example Output
+📊 Example Output
 Dutch GP 2025 Qualifying Predictions:
 ====================================================================================================
 Position  Driver              Team                      Predicted Q3
