@@ -21,7 +21,18 @@ It combines historical qualifying data, driver and team performance factors, and
 
 ---
 
-## 📂 Project Structure
-├── cache/ # FastF1 cache for faster repeated runs
-├── f1_predict.py # Main script (this file)
-├── README.md # Documentation (this file)
+##▶️ Usage
+python f1_predict.py
+
+##📊 Example Output
+Dutch GP 2025 Qualifying Predictions:
+====================================================================================================
+Position  Driver              Team                      Predicted Q3
+----------------------------------------------------------------------------------------------------
+1         Max Verstappen      Red Bull Racing           69.852s
+2         Lando Norris        McLaren                   69.923s
+3         Charles Leclerc     Ferrari                   70.015s
+...
+
+
+
