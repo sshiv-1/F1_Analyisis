@@ -22,15 +22,4 @@ It combines historical qualifying data, driver and team performance factors, and
 ---
 
 
-📊 Example Output
-Dutch GP 2025 Qualifying Predictions:
-====================================================================================================
-Position  Driver              Team                      Predicted Q3
-----------------------------------------------------------------------------------------------------
-1         Max Verstappen      Red Bull Racing           69.852s
-2         Lando Norris        McLaren                   69.923s
-3         Charles Leclerc     Ferrari                   70.015s
-...
-
-
 
